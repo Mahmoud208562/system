@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1716712462 source:c:\users\iislamsoft\desktop\c++sheets\sheet3\hospital_system\main.cpp
+	<iostream>
+	<algorithm>
+	"Header.h"
+
+1716712512 c:\users\iislamsoft\desktop\c++sheets\sheet3\hospital_system\header.h
+	<iostream>
+	<algorithm>
+
+1716712462 source:c:\users\iislamsoft\desktop\hospital_system\main.cpp
+	<iostream>
+	<algorithm>
+	"Header.h"
+
+1716712512 c:\users\iislamsoft\desktop\hospital_system\header.h
+	<iostream>
+	<algorithm>
+
